@@ -1,0 +1,73 @@
+* {
+	margin: 0%;
+	padding: 0%;
+}
+
+body {
+    background-color: #ffffff;
+    background-image: url('https://img.freepik.com/free-photo/weathered-brick-wall-texture_1154-734.jpg?semt=ais_incoming&w=740&q=80');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#header {
+    text-align: center;
+    background-color: #99582a;
+    color: #ffffff;
+    text-shadow:
+      -1px -1px 0 #000000,
+       1px -1px 0 #000000,
+      -1px 1px 0 #000000,
+       1px 1px 0 #000000;
+    padding: 20px;
+	margin: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25px;
+}
+
+#menu {
+    background-color: #99582a;
+    color: #ffffff;
+    text-shadow:
+      -1px -1px 0 #000000,
+       1px -1px 0 #000000,
+      -1px 1px 0 #000000,
+       1px 1px 0 #000000;
+    padding: 20px;
+    margin: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #99582a;
+    color: #ffffff;
+    text-shadow:
+      -1px -1px 0 #000000,
+       1px -1px 0 #000000,
+      -1px 1px 0 #000000,
+       1px 1px 0 #000000;
+    padding: 20px;
+    margin: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25px;
+}
+
+thead, tbody {
+    background-color: #bb9457;
+    border: 1px solid #000000;
+}
+
+tr {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
